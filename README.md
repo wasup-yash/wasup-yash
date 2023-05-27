@@ -1,3 +1,6 @@
+<div>
+<img align="center" src="https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg">
+</div>
 <h1 align="center">Hi 👋, I'm Yash Sharma</h1>
 <h3 align="center">DevOps Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/animated-chock-coding-c78f6elj32sfoi8q.gif">
