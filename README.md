@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud Native Projects**
 
-- 💬 Ask me about **Devops Tools for managing Your Infra**
+- 💬 Ask me about **DevOps Tools for managing Your Infra**
 
 - 📫 How to reach me **ys282785@gmail.com**
 
