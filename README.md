@@ -6,11 +6,11 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 
-- 🌱 I’m currently learning **DevOps Tools**
+- 🌱 I’m currently learning **DevOps/Cloud-Native Tools**
 
-- 👯 I’m looking to collaborate on **Cloud Native Projects**
+- 👯 I’m looking to collaborate on **Cloud-Native Projects**
 
-- 💬 Ask me about **DevOps Tools for managing Your Infra**
+- 💬 Ask me about **Tools for managing Your Infra**
 
 - 📫 How to reach me **ys282785@gmail.com**
 
