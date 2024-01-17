@@ -8,9 +8,7 @@
 
 - 🌱 I’m currently learning **DevOps/Cloud-Native Tools**
 
-- 👯 I’m looking to collaborate on **Cloud-Native Projects**
-
-- 💬 Ask me about **Tools to manage Your Infra**
+- 👯 I’m looking to collaborate on **Cloud-Native & rust Projects**
 
 - 📫 How to reach me **ys282785@gmail.com**
 
