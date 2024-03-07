@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud-Native & Rust Projects**
 
-- 📫 How to reach me **ys282785@gmail.com**
+- 📫 How to reach me : **ys282785@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
