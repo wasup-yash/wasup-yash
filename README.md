@@ -6,11 +6,11 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 
-- 🌱 I’m currently learning **DevOps/Cloud-Native Tools**
+- 🌱 I’m currently learning everything i can.
 
-- 👯 I’m looking to collaborate on **Cloud-Native & Rust Projects**
+- 👯 I’m looking to collaborate on **C++ & Rust Projects**
 
-- 📫 How to reach me : **ys282785@gmail.com**
+- 📫 How to reach me: **ys282785@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
