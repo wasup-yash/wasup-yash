@@ -11,7 +11,7 @@
 
 -  Mail: **ys282785@gmail.com** for opportunities if you have any :) 
 
--  Languages: Rust, Go, Python, C++ 
+-  Languages: Go, Python, C, C++ 
  
 </p>
 
