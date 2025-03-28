@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 
--  I’m currently learning Computer Vision/DL and Infrastructure of things (Pi shape Learning is real dawg) 
+-  I’m currently learning Computer Vision/DL and Infrastructure side of things (Pi shape Learning is real dawg) 
 
 -  Fixing skills issues in the meantime.
 
