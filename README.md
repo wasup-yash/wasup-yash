@@ -5,13 +5,13 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 
--  I’m currently learning everything I possibly can.
+-  I’m currently learning Computer Vision/DL and Infrastructure of things (Pi shape Learning is real dawg) 
 
 -  Fixing skills issues in the meantime.
 
 -  Mail: **ys282785@gmail.com** for opportunities if you have any :) 
 
--  Languages: Go, Python, C, C++ 
+-  Languages: Go, Python, C++ 
  
 </p>
 
