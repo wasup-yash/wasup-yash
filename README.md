@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 
--  I’m currently learning GoLang and CloudNative Tools with lil bit of exploring of AI Research.
+-  I’m currently learning GoLang and CloudNative Tools with lil bit of exploring of AI Research on side.
 
 -  Fixing skills issues in the meantime.
 
