@@ -1,17 +1,15 @@
-<div>
-<img align="center" src="https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg">
-</div>
+
 <h1 align="center">Hi 👋, I'm Yash Sharma</h1>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 
--  I’m currently learning GoLang and CloudNative Tools while exploring AI Research on the side by reading and implementing papers.
+-  I’m currently learning something about everything, while exploring CloudNative Tools,ML,Databases and reading Research Papers on the side.
 
--  Open to collaborations on research papers and part-time projects/Freelance opportunities.
+-  Open to collaborations on research papers and part-time projects/Full-time opportunities.
 
 -  Mail: **ys282785@gmail.com** for opportunities if you have any :) 
 
--  Languages: Go, Python, C++, Rust(Beginner) 
+-  Languages: Go(_adv), Python(_inter), C++(_inter), Rust(_Beginner) 
  
 </p>
 
