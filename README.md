@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 
--  I’m currently learning something about everything, while exploring CloudNative Tools,ML,Databases and reading Research Papers on the side.
+-  I’m currently learning something about everything, while exploring CloudNative Tools,ML,Databases and reading Research Papers.
 
--  Open to collaborations on research papers and part-time projects/Full-time opportunities.
+-  Open to collaborations on research papers and freelance projects/Full-time opportunities.
 
--  Mail: **ys282785@gmail.com** for opportunities if you have any :) 
+-  Mail: **yashsharmadev3@gmail.com** for opportunities if you have any :) 
 
 -  Languages: Go(_adv), Python(_inter), C++(_inter), Rust(_Beginner) 
  
