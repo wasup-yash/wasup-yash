@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Yash Sharma</h1>
 
 
--  I’m Curious about various subjects. Currently exploring CloudNative Tools, GPU Optimizations(CUDA), ML Inference, Databases(Postgres specifically), AI safety, Algorithms, Computational Neuroscience, and reading a lot of Research papers.
+- Contributing/Interested in CloudNative Tools, ML Inference(GPU Optimizations), Databases, Algorithms, Computational Neuroscience, and Research -> Mechanistic Interpretability, Pre/Post-training and RL.
 
--  Open to collaborations on research papers and freelance projects/Full-time opportunities.
+-  Open to Full-time/Part-time opportunities and collaborations on research papers.
 
--  Mail: **yashsharmadev3@gmail.com** for opportunities if you have any :) 
+-  Mail: **yashsharmadev3@gmail.com** or DM on Twitter for opportunities if you have any  :) 
 
--  Languages: Go, Python, C++, Rust 
+-  Languages: Go, Python, C++, Rust, JAX
  
 </p>
 
