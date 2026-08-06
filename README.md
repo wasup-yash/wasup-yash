@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yash Sharma</h1>
 
 
-- Contributing/Interested in CloudNative Tools, ML Inference(GPU Optimizations), Databases, Algorithms, Computational Neuroscience, and Research -> Mechanistic Interpretability, Pre/Post-training and RL.
+- Interested in CloudNative Tools, ML Inference, Algorithms, Computational Neuroscience, Pre/Post-training, RL, and Research -> Mechanistic Interpretability, Ai safety.
 
 -  Open to Full-time/Part-time opportunities and collaborations on research papers.
 
