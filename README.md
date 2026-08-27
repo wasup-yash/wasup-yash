@@ -21,7 +21,7 @@ me.say_hi()
 
 -  Worked with CloudNative Tools, ML Inference, Algorithms, Computational Neuroscience, Pre/Post-training, RL.
 
--  Independent Research -> Post-training, Mechanistic Interpretability, AI safety.
+-  Research Interests -> Post-training, Mechanistic Interpretability, AI safety.
 
 -  Open to Full-time/Part-time opportunities and collaborations on research papers.
 
