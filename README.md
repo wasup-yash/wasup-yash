@@ -5,27 +5,27 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class AIEngineer:
+class Engineer:
 
     def __init__(self):
         self.name = "Yash Sharma"
-        self.role = "AI Engineer"
+        self.role = "Applied AI Engineer and ML Engineer"
         self.programming_languages = ["Python", "C++", "Go", "Rust"]
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my contributions interesting.")
+        print("Thanks for dropping by, hope you find some of my contributions and projects interesting.")
 
-me = AIEngineer()
+me = Engineer()
 me.say_hi()
 ```
 
--  Worked with CloudNative Tools, ML Inference, Algorithms, Computational Neuroscience, Pre/Post-training, RL.
+-  Interested in CloudNative Tools, ML Inference, Algorithms, Pre- and Post-training, RL, and Evals.
 
 -  Research Interests -> Post-training, Mechanistic Interpretability, AI safety.
 
--  Open to Full-time/Part-time opportunities and collaborations on research papers.
+-  Open to Full-time and Part-time opportunities, also interested in collaborations on research papers.
 
--  Mail: **yashsharmadev3@gmail.com** or DM on Twitter for opportunities if you have any  :) 
+-  Mail: **yashsharmadev3@gmail.com** for opportunities. :) 
 
 </p>
 
